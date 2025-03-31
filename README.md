@@ -8,3 +8,6 @@ Notes on the included files:
     - A blank cell indicates that the requirement either had not been formalised yet, or was not updated from the previous FRETish iteration
     - This spreadsheet also includes some notes and comments on the requirements, in two categories: “Comment on v0.X” indicates comments notes on the formalisation of the requirement in that version, while “Discussion on v0.X” indicates notes taken from discussions after that version had been formalised.
 - The folder FRET_JSONs contains JSON files for each iteration of the requirements set that can be used to import the requirements into FRET.
+
+## License
+Copyright © 2025 Oisín Sheridan. This data is licensed under a [CC BY 4.0 license](./LICENSE).
